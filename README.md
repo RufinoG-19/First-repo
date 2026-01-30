@@ -20,3 +20,9 @@ movie_tuples = [("Vertigo", 1958), ("Parasite,2019)]
 vertigo_data = ("Vertigo",1958)
 print(vertigo_data)
 
+practice changes 
+
+1+2 
+
+v = "vertigo"
+
