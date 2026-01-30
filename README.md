@@ -26,3 +26,9 @@ practice changes
 
 v = "vertigo"
 
+New lines of code added 
+
+v =  4 *4 
+Terminal = "A" 
+charlie read this please 
+
