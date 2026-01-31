@@ -32,3 +32,6 @@ v =  4 *4
 Terminal = "A" 
 charlie read this please 
 
+ commiting changes to* 
+
+ please read, updating libraries. 
